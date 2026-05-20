@@ -1,0 +1,16 @@
+{
+  "name": "FoneCheck",
+  "short_name": "FoneCheck",
+  "description": "Aplicativo web para testar fones de ouvido.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ]
+}
